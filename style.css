@@ -20,6 +20,9 @@
     justify-content: center;
     background-color: rgba(217, 219, 253, 0.911);
 }
+.header img{
+    width: 20%;
+}
 .form-in{
     display: flex;
     justify-content: center;
@@ -69,6 +72,6 @@
 }
 @media screen and (max-width: 700px) {
     .header img{
-        width: 50%;
+        width: 40%;
     }
 }
